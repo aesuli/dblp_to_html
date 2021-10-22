@@ -1,0 +1,173 @@
+body {
+    padding:0;
+    margin: 0;
+    border: 0;
+    color: #444444;
+}
+
+.footer {
+    margin: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #444444;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.biblio {
+    font-family: serif;
+}
+
+.author {
+    padding: 5px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.author:before {
+    content: "Publications coauthored by ";
+    font-weight: normal;
+    font-style: normal;
+}
+
+.author:after {
+    content: ":";
+    font-weight: normal;
+    font-style: normal;
+}
+
+.pub_list:before {
+    content: "[JA] Journal Article - [CP] Conference Paper - [BC] Book Chapter - [PP] Preprint";
+    font-size: 80%;
+    margin-left: 2em;
+    margin-bottom: 10px;
+    display: block;    
+}
+
+.pub_list {
+    padding: 5px;
+}
+
+.year_block {
+}
+
+.year_block_head {
+    margin-left: -5px;
+    padding: 5px;
+    width: 5em;
+    text-align: right;
+    color: dimgray;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border-top: 1px solid dimgray;
+    border-bottom: 1px solid dimgray;
+    border-right: 1px solid dimgray;
+}
+
+.pub {
+    padding: 5px;
+    padding-left: 2em;
+    text-indent: -2.2em;
+}
+
+.injour:before {
+    content: "[JA]";
+    font-family: sans-serif;
+    font-size: 70%;
+    background-color: orange;
+    padding: 1px;
+}
+
+.preprint:before {
+    content: "[PP]";
+    font-family: sans-serif;
+    font-size: 70%;
+    background-color: pink;
+    padding: 1px;
+}
+
+.inconf:before {
+    content: "[CP]";
+    font-family: sans-serif;
+    font-size: 70%;
+    background-color:turquoise;
+    padding: 1px;  
+}
+
+
+.inbook:before {
+    content: "[BC]";
+    font-family: sans-serif;
+    font-size: 70%;
+    background-color: violet;
+    padding: 1px;    
+}
+
+.pub{
+        margin-top: 4px;
+        margin-bottom: 4px;
+}
+
+.pub div {
+    display:inline;
+    line-height: 1.5;
+}
+
+.authors {
+    margin-left: .5em;
+    font-style: italic;
+}
+
+.title {
+    margin-left: .5em;
+    font-weight: bold;
+}
+
+.where {
+        margin-left: .5em;
+
+}
+.injour .where {
+}
+
+.inconf .where {
+}
+
+.inconf .where:before {
+    content: "In proceedings of ";
+}
+
+.inbook .where {
+}
+
+.inbook .where:before {
+    content: "Chapter in ";
+}
+
+.volume:after {
+    content: ",";
+}
+
+.year:after {
+    content: ",";
+}
+
+.pages:after {
+    content: ",";
+}
+
+.doi a {
+}
+
+.doi:before{
+    content: "DOI: ";
+    font-size: 70%;
+}
