@@ -5,12 +5,6 @@ body {
     color: #444444;
 }
 
-.footer {
-    margin: 10px;
-    padding-top: 10px;
-    border-top: 1px solid #444444;
-}
-
 a {
     text-decoration: none;
     color: inherit;
@@ -33,7 +27,7 @@ a:hover {
 }
 
 .author:before {
-    content: "Publications coauthored by ";
+    content: "Publications - ";
     font-weight: normal;
     font-style: normal;
 }
@@ -45,7 +39,7 @@ a:hover {
 }
 
 .pub_list:before {
-    content: "[JA] Journal Article - [CP] Conference Paper - [BC] Book Chapter - [PP] Preprint";
+    content: "[JA] Journal Article - [CP] Conference Paper - [BC] Book Chapter - [BO] Book - [TH] Thesis - [OT] Other";
     font-size: 80%;
     margin-left: 2em;
     margin-bottom: 10px;
@@ -86,14 +80,6 @@ a:hover {
     padding: 1px;
 }
 
-.preprint:before {
-    content: "[PP]";
-    font-family: sans-serif;
-    font-size: 70%;
-    background-color: pink;
-    padding: 1px;
-}
-
 .inconf:before {
     content: "[CP]";
     font-family: sans-serif;
@@ -109,6 +95,30 @@ a:hover {
     font-size: 70%;
     background-color: violet;
     padding: 1px;    
+}
+
+.thesis:before {
+    content: "[TH]";
+    font-family: sans-serif;
+    font-size: 70%;
+    background-color: pink;
+    padding: 1px;
+}
+
+.book:before {
+    content: "[BO]";
+    font-family: sans-serif;
+    font-size: 70%;
+    background-color: lightgreen;
+    padding: 1px;
+}
+
+.other:before {
+    content: "[OT]";
+    font-family: sans-serif;
+    font-size: 70%;
+    background-color: lightgray;
+    padding: 1px;
 }
 
 .pub{
@@ -135,7 +145,11 @@ a:hover {
         margin-left: .5em;
 
 }
+
 .injour .where {
+}
+
+.other .where {
 }
 
 .inconf .where {
