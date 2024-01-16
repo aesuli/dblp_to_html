@@ -36,6 +36,8 @@ def render(content):
                     pub_type = 'injour'
             elif paper.find('phdthesis'):
                 pub_type = 'thesis'
+            elif paper.find('book'):
+                pub_type = 'book'
             else:
                 raise Exception(f"Unsupported publication type for {paper}")
 
