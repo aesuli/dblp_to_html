@@ -1,0 +1,133 @@
+journals_datamine_MolinariE24 https://link.springer.com/content/pdf/10.1007/s10618-023-00961-5.pdf
+series_irs_EsuliFMS23 https://link.springer.com/content/pdf/10.1007/978-3-031-20467-8.pdf
+journals_iswa_MolinariES23 http://openportal.isti.cnr.it/data/2023/481846/2023_481846.published.pdf
+journals_jair_FabrisEMS23 https://www.jair.org/index.php/jair/article/view/14033/26912
+conf_evalita_0002E23 https://ceur-ws.org/Vol-3473/paper34.pdf
+conf_ital-ia_CoccominiCEFGM023 https://ceur-ws.org/Vol-3486/32.pdf
+journals_corr_abs-2303-05275 https://arxiv.org/pdf/2303.05275.pdf
+journals_ercim_Esuli23 https://ercim-news.ercim.eu/images/stories/EN132/EN132-web.pdf#page=34
+journals_istinews_Esuli23 files/publications/Editorial%20ISTI%20News%202023.pdf
+journals_access_Esuli22 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9798802
+journals_tkdd_MoreoES22 https://zenodo.org/record/5553901/files/LostInTransduction.pdf
+conf_circle_MolinariE022 https://zenodo.org/records/7090015/files/SLDandActiveLearning.pdf?download=1
+conf_clef_EsuliMSS22 http://openportal.isti.cnr.it/data/2022/470263/2022_470263.postprint.pdf
+conf_clef_EsuliM0S22 https://ceur-ws.org/Vol-3180/paper-146.pdf
+conf_ecir_EsuliMS22 https://arxiv.org/pdf/2111.11249.pdf
+journals_corr_abs-2206-10436 https://arxiv.org/pdf/2206.10436.pdf
+journals_corr_abs-2208-01468 https://arxiv.org/pdf/2208.01468.pdf
+journals_datamine_MoreoES21 https://openportal.isti.cnr.it/data/2021/454276/2021_454276.preprint.pdf
+journals_tois_EsuliMS21 https://zenodo.org/records/4468009/files/ReevaluatingSLD(TOIS-FinalVersion).pdf
+journals_tomccap_MessinaAEFGM21 https://openportal.isti.cnr.it/data/2021/457546/2021_457546.postprint.pdf
+conf_cikm_EsuliM021 https://ceur-ws.org/Vol-3052/abstract4.pdf
+conf_cikm_MoreoE021 https://openportal.isti.cnr.it/data/2021/458278/2021_458278.postprint.pdf
+conf_cikm_MoreoE021a https://ceur-ws.org/Vol-3052/abstract3.pdf
+journals_corr_abs-2106-11057 https://arxiv.org/pdf/2106.11057.pdf
+journals_corr_abs-2109-08549 https://arxiv.org/pdf/2109.08549.pdf
+journals_corr_abs-2111-11249 https://arxiv.org/pdf/2111.11249.pdf
+journals_expert_EsuliMSC20: missing pdf link for "Cross-Lingual Sentiment Quantification."
+journals_gis_PetrySERB20: missing pdf link for "MARC: a robust method for multiple-aspect trajectory classification via space, time, and semantic embeddings."
+journals_tkde_MoreoES20: missing pdf link for "Learning to Weight for Text Classification."
+conf_icpr_MessinaFEA20: missing pdf link for "Transformer Reasoning Network for Image- Text Matching and Retrieval."
+journals_corr_abs-2004-09144: missing pdf link for "Transformer Reasoning Network for Image-Text Matching and Retrieval."
+journals_corr_abs-2008-05231: missing pdf link for "Fine-grained Visual Textual Alignment for Cross-Modal Retrieval using Transformer Encoders."
+journals_ase_FerrariE19: missing pdf link for "An NLP approach for cross-domain ambiguity detection in requirements engineering."
+journals_tois_EsuliMS19: missing pdf link for "Funnelling: A New Ensemble Method for Heterogeneous Transfer Learning and Its Application to Cross-Lingual Text Classification."
+journals_corr_abs-1901-11459: missing pdf link for "Funnelling: A New Ensemble Method for Heterogeneous Transfer Learning and its Application to Polylingual Text Classification."
+journals_corr_abs-1903-12090: missing pdf link for "Learning to Weight for Text Classification."
+journals_corr_abs-1903-12110: missing pdf link for "Building Automated Survey Coders via Interactive Machine Learning."
+journals_corr_abs-1904-07965: missing pdf link for "Cross-Lingual Sentiment Quantification."
+journals_corr_abs-1911-11506: missing pdf link for "Word-Class Embeddings for Multiclass Text Classification."
+journals_ir_CarraraEFFF18: missing pdf link for "Picture it in your mind: generating high level visual representations from textual descriptions."
+conf_cikm_EsuliF018: missing pdf link for "A Recurrent Neural Network for Sentiment Quantification."
+conf_ijcai_FernandezE018: missing pdf link for "Lightweight Random Indexing for Polylingual Text Classification (Extended Abstract)."
+conf_ijcai_FernandezES18: missing pdf link for "Distributional Correspondence Indexing for Cross-Lingual and Cross-Domain Sentiment Classification (Extended Abstract)."
+conf_re_FerrariEG18: missing pdf link for "Identification of Cross-Domain Ambiguity with Language Models."
+books_sp_18_AmatoCCEFGGMNPPPPRRRR0T18: missing pdf link for "How Data Mining and Machine Learning Evolved from Relational Data Base to Data Science."
+journals_corr_abs-1808-00554: missing pdf link for "Traj2User: exploiting embeddings for computing similarity of users mobile behavior."
+journals_corr_abs-1809-00836: missing pdf link for "A Recurrent Neural Network for Sentiment Quantification."
+journals_corr_abs-1810-09311: missing pdf link for "Revisiting Distributional Correspondence Indexing: A Python Reimplementation and New Experiments."
+journals_osnm_ColettoELMN0R17: missing pdf link for "Perception of social phenomena through the multidimensional analysis of online social networks."
+journals_software_FerrariDEGG17: missing pdf link for "Natural Language Requirements Processing: A 4D Vision."
+journals_corr_CarraraEFF17: missing pdf link for "Exploring epoch-dependent stochastic residual networks."
+journals_corr_EsuliFF17: missing pdf link for "JaTeCS an open-source JAva TExt Categorization System."
+journals_ercim_FernandezE017: missing pdf link for "Lightweight Random Indexing for Polylingual Text Classification."
+journals_ercim_FernandezE017a: missing pdf link for "Distributional Correspondence Indexing for Cross-Lingual and Cross-Domain Sentiment Classification."
+journals_istinews_EsuliF17 files/publications/Editorial%20ISTI%20News%202017.pdf
+journals_jair_FernandezE016: missing pdf link for "Distributional Correspondence Indexing for Cross-Lingual and Cross-Domain Sentiment Classification."
+journals_jair_FernandezES16: missing pdf link for "Lightweight Random Indexing for Polylingual Text Classification."
+conf_asunam_ColettoELMNPR16: missing pdf link for "Sentiment-enhanced multidimensional analysis of online social networks: Perception of the mediterranean refugees crisis."
+conf_iir_FernandezE016: missing pdf link for "Transductive Distributional Correspondence Indexing for Cross-Domain Topic Classification."
+conf_semeval_Esuli16: missing pdf link for "ISTI-CNR at SemEval-2016 Task 4: Quantification on an Ordinal Scale."
+conf_sigir_MoreoE016: missing pdf link for "Distributional Random Oversampling for Imbalanced Text Classification."
+journals_corr_ColettoLMNERP16: missing pdf link for "Sentiment-enhanced Multidimensional Analysis of Online Social Networks: Perception of the Mediterranean Refugees Crisis."
+journals_corr_CarraraEFFF16: missing pdf link for "Picture It In Your Mind: Generating High Level Visual Representations From Textual Descriptions."
+journals_corr_BerardiCEM16: missing pdf link for "On the Impact of Entity Linking in Microblog Real-Time Filtering."
+journals_is_AmatoEF15: missing pdf link for "A comparison of pivot selection techniques for permutation-based indexing."
+journals_tkdd_Esuli015: missing pdf link for "Optimizing Text Quantifiers for Multivariate Loss Functions."
+journals_tkdd_BerardiE015: missing pdf link for "Utility-Theoretic Ranking for Semiautomated Text Classification."
+conf_cikm_BerardiEMO015: missing pdf link for "Semi-Automated Text Classification for Sensitivity Identification."
+conf_ecir_EsuliF15: missing pdf link for "Distributional Correspondence Indexing for Cross-Language Text Categorization."
+conf_emnlp_ZafraBEMMF15: missing pdf link for "A Multi-lingual Annotated Dataset for Aspect-Oriented Opinion Mining."
+conf_iir_BerardiEM15: missing pdf link for "Word Embeddings Go to Italy: A Comparison of Models and Training Datasets."
+conf_iir_EsuliF15: missing pdf link for "ProcessFast, a Java Framework for Development of Concurrent and Distributed Applications."
+conf_sac_BerardiEF015: missing pdf link for "Multi-store metadata-based supervised mobile app classification."
+conf_sac_BerardiEF015a: missing pdf link for "Classifying websites by industry sector: a study in feature design."
+conf_sac_BerardiCEM15: missing pdf link for "On the impact of entity linking in microblog real-time filtering."
+journals_corr_Esuli015: missing pdf link for "Optimizing Text Quantifiers for Multivariate Loss Functions."
+journals_corr_BerardiE015: missing pdf link for "Utility-Theoretic Ranking for Semi-Automated Text Classification."
+journals_ercim_Esuli015: missing pdf link for "Optimizing Text Quantifiers for Multivariate Loss Functions."
+journals_neco_BaccianellaE014: missing pdf link for "Feature Selection for Ordinal Text Classification."
+conf_aiia_Esuli014: missing pdf link for "Explicit Loss Minimization in Quantification Applications (Preliminary Draft)."
+conf_ecir_MarcheggianiTE014: missing pdf link for "Hierarchical Multi-label Conditional Random Fields for Aspect-Oriented Opinion Mining."
+journals_eswa_BaccianellaES13: missing pdf link for "Variable-constraint classification and quantification of radiology reports under the ACR Index."
+journals_eswa_BaccianellaES13a: missing pdf link for "Using micro-documents for feature selection: The case of ordinal text classification."
+journals_isci_BerardiE0S13: missing pdf link for "Endorsements and rebuttals in blog distillation."
+journals_jbi_EsuliMS13: missing pdf link for "An enhanced CRFs-based system for information extraction from radiology reports."
+journals_ngc_BaccianellaES13: missing pdf link for "StarTrack: The Next Generation (of Product Review Management Tools)."
+journals_tois_Esuli013: missing pdf link for "Improving Text Classification Accuracy by Training Label Cleaning."
+conf_sisap_AmatoEF13: missing pdf link for "Pivot Selection Strategies for Permutation-Based Similarity Search."
+journals_corr_Esuli13: missing pdf link for "The User Feedback on SentiWordNet."
+journals_ercim_BerardiES13: missing pdf link for "Utility-Theoretic Ranking for Semi-Automated Text Classification."
+journals_ipm_Esuli12: missing pdf link for "Use of permutation prefixes for efficient and scalable approximate similarity search."
+conf_ercimdl_BerardiEGMS12: missing pdf link for "Metadata Enrichment Services for the Europeana Digital Library."
+conf_nldb_BerardiESS12: missing pdf link for "Blog Distillation via Sentiment-Sensitive Link Analysis."
+conf_sigir_BerardiES12: missing pdf link for "A utility-theoretic ranking method for semi-automated text classification."
+conf_trec_BerardiEM12: missing pdf link for "ISTI@TREC Microblog Track 2012: Real-Time Filtering Through Supervised Learning."
+conf_iir_BaccianellaES11: missing pdf link for "Using Micro-Documents for Feature Selection: The Case of Ordinal Text Classification."
+conf_iir_BerardiESS11: missing pdf link for "Blog Distillation via Sentiment-Sensitive Link Analysis."
+conf_trec_BerardiEMS11: missing pdf link for "ISTI@TREC Microblog Track 2011: Exploring the Use of Hashtag Segmentation and Text Quality Ranking."
+journals_expert_EsuliS10: missing pdf link for "Sentiment Quantification."
+conf_clef_EsuliS10: missing pdf link for "Evaluating Information Extraction."
+conf_iir_BaccianellaES10: missing pdf link for "Selecting Features for Ordinal Text Classification."
+conf_iir_EsuliMS10: missing pdf link for "Sentence-Based Active Learning Strategies for Information Extraction."
+conf_lrec_BaccianellaES10: missing pdf link for "SentiWordNet 3.0: An Enhanced Lexical Resource for Sentiment Analysis and Opinion Mining."
+conf_sac_BaccianellaES10: missing pdf link for "Feature selection for ordinal regression."
+conf_sebd_Esuli10: missing pdf link for "PP-Index: Using Permutation Prefixes for Efficient and Scalable Similarity Search (Extended Abstract)."
+conf_semeval_EsuliM010: missing pdf link for "ISTI@SemEval-2 Task 8: Boosting-Based Multiway Relation Classification."
+journals_ercim_EsuliMS10: missing pdf link for "Extracting Information from Free-text Mammography Reports."
+conf_ecir_EsuliS09: missing pdf link for "Active Learning Strategies for Multi-Label Text Classification."
+conf_ecir_BaccianellaES09: missing pdf link for "Multi-facet Rating of Product Reviews."
+conf_ecir_EsuliS09a: missing pdf link for "Encoding Ordinal Features into Binary Features for Text Classification."
+conf_ictir_EsuliS09: missing pdf link for "Training Data Cleaning for Text Classification."
+conf_isda_BaccianellaES09: missing pdf link for "Evaluation Measures for Ordinal Regression."
+conf_ltconf_EsuliS09: missing pdf link for "Enhancing Opinion Extraction by Automatically Annotated Lexical Resources - (Extended Version)."
+conf_sigir_Esuli09: missing pdf link for "PP-Index: Using Permutation Prefixes for Efficient and Scalable Approximate Similarity Search."
+conf_sisap_Esuli09: missing pdf link for "MiPai: Using the PP-Index to Build an Efficient and Scalable Similarity Search System."
+journals_corr_abs-0905-4627: missing pdf link for "CoPhIR: a Test Collection for Content-Based Image Retrieval"
+journals_ercim_BaccianellaES09: missing pdf link for "Multi-Faceted Rating of Product Reviews."
+phd_it_Esuli08: missing pdf link for "Automatic Generation of Lexical Resources for Opinion Mining: Models, Algorithms and Applications."
+journals_ir_EsuliFS08: missing pdf link for "Boosting multi-label hierarchical text categorization."
+journals_sigir_Esuli08: missing pdf link for "Automatic generation of lexical resources for opinion mining: models, algorithms and applications."
+conf_lrec_EsuliSU08: missing pdf link for "Annotating Expressions of Opinion and Emotion in the Italian Content Annotation Bank."
+conf_acl_EsuliS07: missing pdf link for "PageRanking WordNet Synsets: An Application to Opinion Mining."
+conf_ltconf_ArgamonBES07: missing pdf link for "Automatically Determining Attitude Type and Force for Sentiment Analysis."
+conf_eacl_EsuliS06: missing pdf link for "Determining Term Subjectivity and Term Orientation for Opinion Mining."
+conf_lrec_Esuli006: missing pdf link for "SENTIWORDNET: A Publicly Available Lexical Resource for Opinion Mining."
+conf_spire_EsuliFS06: missing pdf link for "MP-Boost: A Multiple-Pivot Boosting Algorithm and Its Application to Text Categorization."
+conf_spire_EsuliFS06a: missing pdf link for "TreeBoost.MH: A Boosting Algorithm for Multi-label Hierarchical Text Categorization."
+conf_cikm_EsuliS05: missing pdf link for "Determining the semantic orientation of terms through gloss classification."
+conf_iadis_AttardiEHS04: missing pdf link for "Participatory Search."
+conf_trec_AttardiEP04: missing pdf link for "Using Clustering and Blade Clusters in the Terabyte Task."
+conf_www_AttardiES04: missing pdf link for "Best bets: thousands of queries in search of a client."
+conf_vrml_EsuliCPS03: missing pdf link for "Multimodal presentation of dynamic object scenarios on the web."
+conf_ah_EsuliCPS02: missing pdf link for "Adaptive Real Time Comment Generation for Sail Racing Scenarios."
