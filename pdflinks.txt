@@ -1,3 +1,4 @@
+journals_mta_MessinaCEF24 https://openportal.isti.cnr.it/data/2024/491916/2024_491916.published.pdf
 journals_corr_abs-2406-12128 https://arxiv.org/pdf/2406.12128
 journals_corr_abs-2403-18697 https://arxiv.org/pdf/2403.18697
 journals_lalc_BertiES23 https://arxiv.org/pdf/2208.01468v1
