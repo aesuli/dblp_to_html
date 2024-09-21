@@ -1,3 +1,5 @@
+journals_peerj-cs_CoccominiEFGA24 https://peerj.com/articles/cs-2127.pdf
+conf_acl_0002RADE24 https://aclanthology.org/2024.acl-long.817.pdf
 journals_mta_MessinaCEF24 https://openportal.isti.cnr.it/data/2024/491916/2024_491916.published.pdf
 journals_corr_abs-2406-12128 https://arxiv.org/pdf/2406.12128
 journals_corr_abs-2403-18697 https://arxiv.org/pdf/2403.18697
