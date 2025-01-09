@@ -56,7 +56,8 @@ def render(content, pdf_links=None):
                 key = paper.find('book')['key']
                 pub_type = 'book'
             else:
-                raise Exception(f"Unsupported publication type for {paper}")
+                print(f"Unsupported publication type for {paper}", file=sys.stderr)
+                continue
 
             key = key.replace('/','_')
 
