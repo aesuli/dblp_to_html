@@ -55,8 +55,11 @@ def render(content, pdf_links=None):
             elif paper.find('book'):
                 key = paper.find('book')['key']
                 pub_type = 'book'
+            elif paper.find('data'):
+                print(f'** ignored ** data source: {paper.find('title')}')
+                continue
             else:
-                print(f"Unsupported publication type for {paper}", file=sys.stderr)
+                print(f"** error ** unsupported publication type for {paper}", file=sys.stderr)
                 continue
 
             key = key.replace('/','_')
@@ -71,7 +74,7 @@ def render(content, pdf_links=None):
                 print(f"<div class=\"title\"><a href=\"{urls[0].text}\">{paper.find('title').text}</a></div>",
                       file=outputfile)
                 for url in urls:
-                    matches = re.findall('doi\.org/([^\s]+)', url.text)
+                    matches = re.findall(r'doi\.org/([^\s]+)', url.text)
                     if len(matches) > 0:
                         doi = matches[0]
                         break
