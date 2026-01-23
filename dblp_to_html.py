@@ -126,7 +126,12 @@ if __name__ == '__main__':
 
     url = f'https://dblp.uni-trier.de/pid/{author_pid}.xml'
 
-    content = requests.get(url).content.decode()
+    response = requests.get(url)
+    if response.status_code != 200:
+        print(f"Request to {url} failed with code {response.status_code}")
+        exit(-1)
+        
+    content = response.content.decode()
 
     additional_publications_file = "additional.xml"
     if os.path.exists(additional_publications_file):
